@@ -1,0 +1,63 @@
+.bar {
+    height: 100%;
+    width:100%;
+    position: fixed;
+    z-index: 1;
+    left:0;
+    top: 0;
+    background-color:#4e3363;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+label {
+   font-family:Rockwell;
+   font-size: 20px;
+   font-style: italic;
+   color:white;
+   height: 20px;
+   width: 40px;
+   margin-top: 30px;
+   margin-left: 420px;
+   text-align: justify;
+   clear: both;
+   float:left;
+   margin-right:80px;
+   white-space: nowrap;
+}
+input[type=button]{
+      width:100px;
+      height: 35px;
+      margin-left:510px;
+
+}
+#myButton1
+{
+   width:100px;
+   height: 35px;
+   margin-left:150px;
+   position:fixed;
+
+}
+input{
+       display:block;
+}
+input {
+	height: 30px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 30px;
+    float: left;
+}
+table th,td {
+   color: #fff;
+}
+#div2 {
+    font-family:Rockwell;
+     font-size: 20px;
+     font-style: italic;
+     color:white;
+     margin-top: 80px;
+     text-align: justify;
+     clear: both;
+     white-space: nowrap;
+}
